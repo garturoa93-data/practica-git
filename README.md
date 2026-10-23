@@ -6,3 +6,4 @@ Repositorio de práctica para la Semana 1 del curso de Git.
 
 - `plan.md`: temas de cada semana.
 - `comandos.md`: comandos que voy practicando.
+- `glosario.md`: términos básicos de Git.
