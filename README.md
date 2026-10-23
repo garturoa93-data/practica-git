@@ -1,6 +1,6 @@
 # Práctica Git
 
-Repositorio de práctica del curso de Git: semana 1 (fundamentos) y semana 2 (ramas y merges).
+Repositorio de práctica del curso de Git: semana 1 (fundamentos) y semana 2 (ramas, merges, .gitignore y cómo deshacer cambios).
 
 ## Contenido
 
