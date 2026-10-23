@@ -1,6 +1,6 @@
 # Práctica Git
 
-Repositorio de práctica para la Semana 1 del curso de Git.
+Repositorio de práctica del curso de Git, incluyendo .gitignore y cómo deshacer cambios.
 
 ## Contenido
 
