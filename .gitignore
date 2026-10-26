@@ -1,0 +1,15 @@
+# Cache de Python: se regenera solo al ejecutar el código
+__pycache__/
+*.pyc
+
+# Entorno virtual: cada quien crea el suyo con pip install -r requirements.txt
+.venv/
+
+# Variables de entorno y credenciales: nunca deben subirse al repo
+.env
+
+# Logs que genera Airflow al correr los DAGs
+logs/
+
+# Configuración local del editor
+.vscode/
