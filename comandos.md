@@ -15,3 +15,7 @@
 - `git merge <rama>`: integra los cambios de otra rama en la rama actual.
 - `git branch -d <rama>`: borra una rama que ya fue fusionada.
 - `git log --graph --oneline --all`: dibuja el historial de todas las ramas.
+
+## Deshacer cambios
+
+- `git restore <archivo>`: descarta cambios sin commit.
