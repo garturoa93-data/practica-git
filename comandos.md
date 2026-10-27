@@ -19,3 +19,4 @@
 ## Deshacer cambios
 
 - `git restore <archivo>`: descarta cambios sin commit.
+- `git push --force` siempre es seguro.
